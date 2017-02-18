@@ -1,0 +1,39 @@
+SAMCHAT 0.4 for Linux
+25 DEC 2008
+
+
+-------------------------
+WELCOME TO SAMCHAT ENGINE
+-------------------------
+
+
+ABOUT SAMCHAT ENGINE:
+---------------------
+	This is a simple text based chat engine which supports all forms of text and GUI terminals. Additionally SAMCHAT supports execution of some commands within the chat engine.
+
+
+
+GETTING STARTED:
+----------------
+1. To compile client and server program and execute server execute the compile.sh shell script
+
+this causes 2 sockets to be created with 2 ports
+8083
+8084
+
+2. To start chat engine execute client program as shown below:
+
+./client [-i ip | -h hosyname] <port number>  
+
+3. To stop chat engine press ctrl-c
+
+4. This chat engine also provides option for executing various shell commands within the chat engine. Prefix '/' to each command you want to execute
+
+for ex, /clear - clears the buddy screen
+
+
+TECHNICAL SUPPORT:
+------------------
+To reach the developer please send email to samchat.engine@gmail.com.
+
+Thank you for using the SAMCHAT ENGINE!

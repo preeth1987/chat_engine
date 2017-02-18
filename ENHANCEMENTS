@@ -1,0 +1,12 @@
+SAMCHAT 0.4 for Linux
+
+1. Uses select() system call which reduces computer resource utilization when blocking system calls are encountered in both server and client...
+
+2. Removed bugs:
+	* If remote server terminates... clients are indicated...
+
+	* Offline messages can be sent with notifications
+
+	* The ncurses is changed to present screen for varying size of both GUI terminal (pseudo terminal) & text terminal (tty)
+
+3. MILESTONE 1.1 REACHED...!!!.. THIS ENABLES ANY NO. OF PAIR OF CLIENTS TO CHAT....
