@@ -1,0 +1,14 @@
+
+MILESTONES TO BE REACHED
+
+BY : 10-JAN-09  
+
+1.1. change server to concurrent server in which any no. of 2 clients can communicate 
+
+1.2. enable menus, enable keypad() in ncurses, enable shortcuts ^L for clearscreen...
+
+BY : 26-JAN-09 
+
+2.1. enable group chat... 
+
+2.2. include send file to other client option...

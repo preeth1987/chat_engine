@@ -1,0 +1,21 @@
+TO INSTALL:
+
+make
+make install
+
+this will copy the server and client both to home directory(~)
+
+TO CLEAN:
+
+make clean
+
+this will remove all executable and *.0 files
+
+TO REMOVE:
+
+make remove
+
+this will delete the server and client executable from home directory(~)
+
+
+***TO RUN SERVER AND CLIENT PROGRAM SEE README
